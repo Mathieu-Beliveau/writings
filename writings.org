@@ -1,4 +1,12 @@
 * Écrits
+** Divers
+*** 01
+Selon la thèse illustrée dans When Minds Converse, le contexte de coopération duquel le langage serait né, pose un mode d'apréhension du monde où l'individu pose d'abord son attention sur ses pairs; il questionne leurs mobiles, leurs intentions, etc. Pettit avance (de façon certainement plausible) que l'identité individuelle, le soi, est en somme la concrétion des instance où, toujours en contexte de coopération, les questions sur les mobiles et intentions des pairs s'étendent pour includre le sujet qui questionne: sait-t'il que je le sais, sait-t'il où je suis, etc. On voit par ailleurs assez aisément que cette enrichissement de la théorie de l'esprit, par l'avantage coopératif qu'elle donne, est certainement sujette à être un trait retenu par l'évolution.  Cette concrétion du "je" le pose ainsi en un nouvel objet pour l'attention. Si, à l'instar des autres perceptions que l'esprit agrège en symboles et concepts, le "je" devient lui-même un objet d'attention découplé de la perception immédiate, on peut dès lors parler de la naissance de l'introspection: une questionnement dirigé vers soi, librement initié.
+
+Sous ce portrait d'une théorie de l'esprit où nous nous occupons d'abord à comprendre nos pairs et par la suite, la part que occupons dans leur esprit (donnant la genèse du soi, vue comme un processus social), il me parait psychologiquement intéressant d'investiguer l'équivalence ou du moins la correspondance entre notre façon d'aborder autrui et celle envers ce qu'on nomme "je" - du fait qu'il s'agit essentiellement du même exercice. Par exemple: dans quelle mesure est-ce que le degré de socialisation d'un individu module la sa relation avec lui-même (et inversement).
+
+Autre point intéressant: dans un contexte où la coopération présenterait un avantage critique du point de vu évolutif, on ne peine à imaginer l'avantage coopératif d'une identité individuelle formée par la compréhension que nous avons du rôle que nous avons pour nos pairs. Par contre, l'émergence de cette identité, du soi, comme objet d'attention pour l'individu, subtilement, le transforme d'une entité essentiellement sociale, entièrement substanciée par le regard des autres à une où une part privé s'installe. Cette vue que nous avons de nous-même, pour nous-même, ouvre le champ à l'auto-détermination et dans une certaine mesure, nous émancipe de la détermination sociale.
+
 ** 2024-09-01
 La dernière journée, le vent de la veille s'est dissipé. J'étais seul. Ma voisine et ses deux enfants ont quitté le matin et avec eux, les jeux, la turbulence de leurs rires et l'angoisse que j'avais d'être cet homme incertain, qui n'ose prendre part ni converser.
 ** 2025-10-29
@@ -20,7 +28,6 @@ ce sont ces mises en relation qui la substantifient.
 Si, comme Tomasello le présume, la collaboration a joué un rôle essentiel dans la survie et l'essor de notre espèce, il ne serait pas étonnant que cette faculté à construire l'identité individuelle
 fondée par la mise en relation avec autrui, fût elle-même un objet important de la sélection naturelle. C'est donc aussi sans surprise qu'en notre for intérieur, ce soient des qualificatifs moraux
 qui peuplent la fibre de qui nous sommes.
-
 ** 2025-11-10
 
 Étant donnée l'importance de la collaboration dans la genèse à la fois du langage, de l'identité individuelle et de la moralité,
@@ -122,7 +129,7 @@ La fièreté d'être, simple, confiante, rieuse - qu'aucune défaite ne saurait 
 
 Et j'aimerais que ce sentiment ne soit pas que pour moi, mais qu'il s'étende à mes compères.
 Que je puisse les prendre aux aussi, comme des êtres fiers, confiants et rieurs;
-une empathie pour les autres comme je la voudrais pour moi-même: qui fait fit de la nullité, des handicaps et qui prend comme un frère le dernier des derniers.
+une empathie pour les autres comme je la voudrais pour moi-même: qui fait fit de la nullité, des handicaps et qui prend comme un frère celui qu'autrement on désigne comme le dernier des derniers.
 
 ** 2025-11-30
 
@@ -178,6 +185,11 @@ l'amour d'un proche - l'amour entendu comme reconnaissance par l'autre d'une val
 L'exercice de reconnaître une valeur inéluctable en l'autre, demande de considérer celui-ci en dehors des aléas circonstentiels de l'existence - il s'agit par définition d'un rapprochement, d'une identification intime qui s'opère
 tacitement. Cette reconnaissance d'une valeur intrinsèque présente une tension naturelle, complémentaire, vis-à-vis la valeur transactionnelle, octroyée par la conjecture sociale. Une société ne pourrait évidemment être entièrement fondée sur la première faute de quoi, le succès ou l'échec d'un mode d'être ou d'agir seraient des notions indifférentes - annulant tout progrès. J'argumente qu'on ne peut également établir une société sur une valeur essentiellement transactionnelle du fait que cette dernière serait trop volatile, l'individu y étant dévalué au moindre échec. Il me semble donc naturel et nécessaire qu'en dessous de la strate publique, subsiste un coeur de reconnaissance quasi inconditionnelle entre parents et enfants et entre tous ceux qui s'aiment d'un amour humain, nu et précaire.
 
+** 2026-06-06
+Deux pistes de réflexion venues de Jane Goodall:
+
+- La guerre, vue paradoxalement comme l'un des plus fortes motivations à la coopération.
+- La spéciation sociale: comment la lignée d'un meme crée différents groupes idéologiques qui luttent pour leur survie (i.e.: la pérénité du meme) 
 ** When Minds Converse (Notes)
 *** Agency with Judgment
 - "The belief that p is a disposition robustly to act as it would be rational to act,
