@@ -200,4 +200,4 @@ Notes sur Ẁho Knows de Raymond Smyllyan:
 - "The belief that p is a disposition robustly to act as it would be rational to act,
 given the agent's other presumptively consistent beliefs and desires, if it were the
 case that p: for short, to act as if p."
-
+test
