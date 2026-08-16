@@ -1,13 +1,13 @@
 * Écrits
-** Divers
-*** 01
+** Entrees
+*** 2024-09-01
 Selon la thèse illustrée dans When Minds Converse, le contexte de coopération duquel le langage serait né, pose un mode d'apréhension du monde où l'individu pose d'abord son attention sur ses pairs; il questionne leurs mobiles, leurs intentions, etc. Pettit avance (de façon certainement plausible) que l'identité individuelle, le soi, est en somme la concrétion des instance où, toujours en contexte de coopération, les questions sur les mobiles et intentions des pairs s'étendent pour includre le sujet qui questionne: sait-t'il que je le sais, sait-t'il où je suis, etc. On voit par ailleurs assez aisément que cette enrichissement de la théorie de l'esprit, par l'avantage coopératif qu'elle donne, est certainement sujette à être un trait retenu par l'évolution.  Cette concrétion du "je" le pose ainsi en un nouvel objet pour l'attention. Si, à l'instar des autres perceptions que l'esprit agrège en symboles et concepts, le "je" devient lui-même un objet d'attention découplé de la perception immédiate, on peut dès lors parler de la naissance de l'introspection: une questionnement dirigé vers soi, librement initié.
 
 Sous ce portrait d'une théorie de l'esprit où nous nous occupons d'abord à comprendre nos pairs et par la suite, la part que occupons dans leur esprit (donnant la genèse du soi, vue comme un processus social), il me parait psychologiquement intéressant d'investiguer l'équivalence ou du moins la correspondance entre notre façon d'aborder autrui et celle envers ce qu'on nomme "je" - du fait qu'il s'agit essentiellement du même exercice. Par exemple: dans quelle mesure est-ce que le degré de socialisation d'un individu module la sa relation avec lui-même (et inversement).
 
 Autre point intéressant: dans un contexte où la coopération présenterait un avantage critique du point de vu évolutif, on ne peine à imaginer l'avantage coopératif d'une identité individuelle formée par la compréhension que nous avons du rôle que nous avons pour nos pairs. Par contre, l'émergence de cette identité, du soi, comme objet d'attention pour l'individu, subtilement, le transforme d'une entité essentiellement sociale, entièrement substanciée par le regard des autres à une où une part privé s'installe. Cette vue que nous avons de nous-même, pour nous-même, ouvre le champ à l'auto-détermination et dans une certaine mesure, nous émancipe de la détermination sociale.
 
-*** 2024-09-01
+*** 2024-09-02
 La dernière journée, le vent de la veille s'est dissipé. J'étais seul. Ma voisine et ses deux enfants ont quitté le matin et avec eux, les jeux, la turbulence de leurs rires et l'angoisse que j'avais d'être cet homme incertain, qui n'ose prendre part ni converser.
 *** 2025-10-29
 
@@ -178,12 +178,9 @@ La genèse de l'identité, selon laquelle l'individu développe une représentat
 
 *** 2026-01-03
 
-L'heuristique de présupposer une valeur intrinsèque et inconditionnelle à l'autre, revient à lui donner l'assurance qu'en cas d'échec, il demeurera néanmoins quelqu'un digne d'un nouvel essai, digne d'être encore et toujours
-accepté par ses pairs. Cette présupposition de valeur par les parents, fonde une assise sur laquelle la précarité de l'enfance peut se poser et prendre son élan dans le monde. C'est cette même assise que procure, à l'âge adulte,
-l'amour d'un proche - l'amour entendu comme reconnaissance par l'autre d'une valeur inéluctable pour la personne que nous sommes.
+L'heuristique de présupposer une valeur intrinsèque et inconditionnelle à l'autre, revient à lui donner l'assurance qu'en cas d'échec, il demeurera néanmoins quelqu'un digne d'un nouvel essai, digne d'être encore et toujours accepté par ses pairs. Cette présupposition de valeur par les parents, fonde une assise sur laquelle la précarité de l'enfance peut se poser et prendre son élan dans le monde. C'est cette même assise que procure, à l'âge adulte, l'amour d'un proche - l'amour entendu comme reconnaissance par l'autre d'une valeur inéluctable pour la personne que nous sommes.
 
-L'exercice de reconnaître une valeur inéluctable en l'autre, demande de considérer celui-ci en dehors des aléas circonstentiels de l'existence - il s'agit par définition d'un rapprochement, d'une identification intime qui s'opère
-tacitement. Cette reconnaissance d'une valeur intrinsèque présente une tension naturelle, complémentaire, vis-à-vis la valeur transactionnelle, octroyée par la conjecture sociale. Une société ne pourrait évidemment être entièrement fondée sur la première faute de quoi, le succès ou l'échec d'un mode d'être ou d'agir seraient des notions indifférentes - annulant tout progrès. J'argumente qu'on ne peut également établir une société sur une valeur essentiellement transactionnelle du fait que cette dernière serait trop volatile, l'individu y étant dévalué au moindre échec. Il me semble donc naturel et nécessaire qu'en dessous de la strate publique, subsiste un coeur de reconnaissance quasi inconditionnelle entre parents et enfants et entre tous ceux qui s'aiment d'un amour humain, nu et précaire.
+L'exercice de reconnaître une valeur inéluctable en l'autre, demande de considérer celui-ci en dehors des aléas circonstentiels de l'existence - il s'agit par définition d'un rapprochement, d'une identification intime qui s'opère tacitement. Cette reconnaissance d'une valeur intrinsèque présente une tension naturelle, complémentaire, vis-à-vis la valeur transactionnelle, octroyée par la conjecture sociale. Une société ne pourrait évidemment être entièrement fondée sur la première faute de quoi, le succès ou l'échec d'un mode d'être ou d'agir seraient des notions indifférentes - annulant tout progrès. J'argumente qu'on ne peut également établir une société sur une valeur essentiellement transactionnelle du fait que cette dernière serait trop volatile, l'individu y étant dévalué au moindre échec. Il me semble donc naturel et nécessaire qu'en dessous de la strate publique, subsiste un coeur de reconnaissance quasi inconditionnelle entre parents et enfants et  tous ceux qui s'aiment d'un amour humain, nu et précaire.
 
 *** 2026-06-06
 Deux pistes de réflexion venues de Jane Goodall:
@@ -195,7 +192,155 @@ Notes sur Ẁho Knows de Raymond Smyllyan:
 
 - Il serait en effet intéressant de réfléchir aux divers modes de conscience. On se représente habituellement la conscience au sein du règne animal comme une question de degrés, à commencer par la perception sensible de stimulis avec ensuite celle d'émotions complexes telles l'espoir, la honte, etc. pour enfin aller jusqu'aux pures abstractions. Smullyan, avec Burque, suggère que rien n'oblige à ce que le caractère de la conscience humaine demeure à jamais fixe, statique. Les processus évolutifs l'ayant formée sont toujours en cours et rien ne prévient l'émergence de nouvelles formes. La question à savoir à quoi pourraient ressembler ces nouvelles formes m'intéresse également. Smullyan et Burque proposent que l'état de conscience évoqué par certains mystiques constituerait bel et bien une nouvelle forme légitime. Au-delà du spiritisme et autres vues qui s'éloignent des explications physicalistes/matérialistes, il ne me paraît pas insensé de croire à ce que le cerveau humain, tel qu'il est, soit amenable à un régime de perception tel qu'on pourrait parler d'une nouvelle forme de conscience - soit par exemple la perception immédiate de l'existence d'une certaine réalité morale à même titre que nous percevons le rouge ou l'évidence d'un axiome mathématique.
 *** 2026-07-23
-*** When Minds Converse (Notes)
+Hey Austin,
+
+I hope this mail finds you well, I've been meaning to write to you for a while now but then refraining for possibly no good reason.
+
+I'm on sick leave at the moment - been having a somewhat crippling IBS since more than a decade but of late, the symptoms were chipping away the sparse remaining theads of sleep I was hanging to. I feel I'd be a fool not to use this moment of respite to break or at least shake up the day to day inertia that inevitably builds when one isn't really mindful to one's circumstances.
+
+LLMs (sorry to bring them up), have more or less dissovled the small joyful moments in my work where I, sometimes, neatly solved a design problem or came up with some elegant, scalable system to implement a given feature. These were never profound motivations but their absence now highlights how disconnected I feel toward the overall enterprise. Hence, I feel to be at a point where, there is no hiding it, I need  my work to make sense - if not societal sense, at least some personal sense.
+
+This is incidentally why I'm still very much interested in knowing the reasons of you leaving Osedea but even more so, where you are at right now. I'm interested, in particular, because I'm nudged to think that we have a similar way to percieve and reflect about our dubious time line. As I've wrote before, I still think this warrants an in person conversation but if you ever feel inclined to write about it (might be just to vent out), I'm still curious.
+
+Appart from all that gloom, I came back from Japan a couple of weeks ago and it was indeed a very interesting trip. Found it both marvellous and terrifying in how, at the individual level, cultural incentives toward a sense of collective responsibility were capable of creating some phenomenons we can only dream of in in North America (simply having cushioned subway seats, for instance). The terrifying side of this strong collective integration is, of course, how strongly marginalized people are litterally pushed back out of the view and how alienated they must feel. I'm very curious as to which lessons you gathered out of this social experiment that is Japan.
+
+Small literrary digression: while being in Japan, I got the chance to read The Dawn of Everything by David Greaber & David Wengrow. I'd venture you already know about this book but in case it has eluded your attention, it is a very well done (if somewhat hefty) essay portraying how, in the course of history, societies didn't exactly developed into the usual, neatly separated, almost fatalistic phases of hunter-gatherer, agriculture up to the centralized, modern capitalist state that we see everywhere today. They show how, rather, social organization was a self-concious thought process and how, many times, societies delibrately rejected modes of organization that limited the exercise of more valued way of life. I kinda see it as a well documented, hopeful ode to the diversity of human nature, how it can exists and has in fact existed outside of the broad monoculture we, in some measure, experience today. I really do feel this one might be up your alley.
+
+Hope you are having delightful summer!
+
+Again, will try to let you know if per chance I come by Montreal and have some time to meet.
+Note: last time I came, I went to the Escher exhibit - even if you are familiar with his works, I'd say it is very much worth it to see them in person.
+
+Cheers!
+
+Mathieu
+*** 2026-08-02
+
+Hello Mathieu,
+
+I am so sorry to hear that you have been unwell, but glad to hear you are taking the necessary break, it is so important to prioritize your health. One of my closest friends has just recently finished a year long ramp up back to full time at her work after needing a burnout break. She works at a non-profit focused on helping marginalised people (LGBTQ2+, women etc) in the 3rd world and as you can imagine the repercussions of DOGE and the global shift to the right has had devastating effects. I am so glad she recognised the toll it was taking on her, as they say "adjust your own oxygen mask before assisting others".  At my last job pre-Osedea I made huge efforts to help during a time of upheaval and it is one of my life regrets, the board was thankful, but I was emotionally and physically drained with a rapid weight loss physically reflecting the immense effort I made....and for what? Helping to maintain shareholder value a little longer? My own job within the company remained unchanged as I was a junior dev (rightfully so for my skill level at the time). We can discuss the specifics if you like but it will take a couple paragraphs to lay out the players (ex: feuding co-founders). I sacrificed months of well-being for a pat on the back, and to be honest I didn't expect anything else. At the time I was guided by the question "what is best for the company?", which is how I was taught to make my work decisions. Granted the person who taught me that (my father) was a part owner in his company so the stakes were very different. This time around at Osedea I believe I again could have made a choice at personal expense that the company would have been better for but I didn't want to repeat history. Maybe it would have ended differently and I'd find satisfaction in the result, I like to think my parting words had a positive impact, but I am happy and likely healthiest having walked away. I was able to take the time to support my family during my uncle's death the previous week and take significant time to travel. Martin wrote me a nice email a week after my exit offering help when I was ready for my next steps and I feel I left on good terms with Phil and Ivana (although not everyone of course). 
+
+I am immensely privileged to be able to take this time to explore personal goals. I am actually working on a 'moonshot' project. I pitched at Startupfest and on my first day ever publically pitching I had one of the judges remark "That was a good pitch, really good pitch" which feels great. I was able to take significant time to hone it though which again is a huge privilege as I don't have to consider things like "can I make the mortgage payment?".  I am currently going by three month increments, every three months I ask "Do I continue with the moonshot or look to another path?". There is an incubator I will apply to next month (acceptance decision made in September) which will likely impact my choice next time I ask myself the question. 
+
+My 90 sec pitch from Startupfest:
+____________________________
+Like, swipe,  scroll
+We all know, now,
+that social media wasn't designed to build healthy communities.
+
+It was designed to maximize engagement—
+feeding addiction,
+comparison,
+and isolation.
+
+But both the cultural and regulatory landscapes are shifting,
+
+My name is Austin Metka,
+and I built the app Joji—Joy of Joining In—
+to help people connect in real life.
+
+Researchers are calling it a loneliness epidemic.
+
+The Atlantic has named this the anti-social century.
+
+A recent Ticketmaster survey found that, over the past five years,
+the number of people attending festivals alone has
+nearly quadrupled—
+from 8 to 29%.
+
+Joji can help.
+
+Joji makes it simple to browse activities and events —
+posted by friends.
+
+and to casually share what you're  doing
+
+Be it a picnic, golf, or a festival —
+so others can join in.
+
+It even helps you meet new people
+— through sharing posts with friends of friends.
+
+
+
+Built on the principles of humane technology.
+
+Joji removes much of the anxiety associated with performative posting.
+
+
+
+There are no likes.
+No public friend counts.
+No infinite scroll.
+and No manipulative algorithms.
+
+To build a sustainable business,
+we're exploring partnerships,
+affiliate link revenue,
+
+and subscriptions for premium features.
+
+But we're committed to keeping people—not engagement—
+as our north star.
+
+Like any social platform,
+Joji becomes most impactful
+when groups of people adopt it together.
+
+As we currently have our Beta,  while we welcome investment,
+what we need most right now
+are mentors
+and advocates
+who can introduce Joji to their communities.
+
+------------
+
+This is a moonshot because social networks are notoriously difficult due to the network effect. Users need to quickly have their magic number of 5 connections to make the app useful. I have time to attempt to solve the challenge though and I am expanding my skills and networking in circles who share my values while doing so. That means even if I do decide in September/October to pivot it is hopefully closer to what brings me meaning. Finding the center for Humane Technology, attending a conference on social media & polarization etc etc are all things that lift me up in ways I was not experiencing before. I should be outsourcing more, but I am finding joy in the work, although I might need to contract a designer soon. The beta is very disjointed design wise. It is three "branding" ideas combined as I have yet to decide on one. I was waiting until I had an overall concept though, and I now think I do after a great talk with a city councillor about how the current apps they tried using to bring the community of his constituency together failed. He was a very serendipitous Start-upfest encounter. Whatever the result of my time spent on the app it is my attempt to make sense of,  and maybe play a part in finding a solution to, some of what ails our society beyond my political advocacy and volunteering.
+
+I find solace in a concept I read in a book about the lead up to WWII. The author spoke to a German who felt a personal burden because he did nothing and that meant that likely others like him who could see what was happening also did nothing. Whether what I am doing fails or succeeds I am hoping it is a swiss cheese model and that others are also trying and in our overlapping efforts there will be enough successes to turn the tide. I was so disheartened listening to my immediate peers before and now instead I find many of the rooms I am in inspiring. Not all of them of course, the talks and speakers I choose are diverse so there are many who embody my concerns. One talk I went to (I was a guest at a Cambridge Alumni dinner)  Shopify President Harley Finklestein gave a fireside chat. For context, the Shopify founder Tobias Lutke was just in the news, and the talk left me with the impression they share similar leanings. In another talk a AI videogame founder when questioned about the ethics of Ai 'stealing' for his graphics he responded that he thought "anything that was popular is good" (as in morally!). Later when discussing funding he explained the lack of women getting silicon funding in the most situationally unaware techbro way. - heavy sigh - Society's challenges ahead are no small thing and it is our industry that is leading the decline. 
+
+I wish my path could help you sort yours but I know my situation is very unique and I am blessed with a freedom and choices that most others can't afford. "While we welcome investment..." is not a phrase early founders are normally able to make, it usually is what they need most. Again, be sure to "secure your own oxygen mask before attempting to help others". I don't know what that means for you but be mindful of it. 
+
+ Thank you for the book recommendation, it sounds like it is not just up my alley but loosely related to my current project. I will add it to the list, which is very long right now. I hope the next time you are in Montreal you give me a call to catch up over coffee or drinks. I went to the Escher exhibit a couple weeks ago with my aunt and loved it! Did you get a chance to see the Amerigo Vespucci when it was in port earlier this week? I watched her sail in, and can see her from my window, but will be at the lake when she is open for tours this weekend unfortunately. 
+
+Cheers,
+
+Austin
+
+Hello Austin,
+
+Last time I got a glimpse of such sheer positivity was when reading one of Jane Goodall memoir: Reason For Hope (be sure, Jane is an idol of mine). The times, they are a changin, as they always have been, but, it now feels, never under such pressure and intensity. This on-going storm can sure be depressing but I as well cannot help but be pulled and intrigued by the challenges it poses: how can democracy be rendered more robust, in which kind of social network do we really thrive, how can we grow a beneficial information ecosystem, etc. Attempting to solve these questions can only yield better outcomes but as you point out, there is a sense in which we must rise up to them, here and now. I can thus only bow in deep respect for the project you are attempting and of course, I am beyond teased with further questions. First and foremost, I'm really curious to know how you would characterize the core issue(s) with social media as I'm still wondering myself which characterization would serve best. Then, come all the gory details of the execution which can sometimes hinder the best of ideas.
+
+I guess a proper response to this question might be a chore just to write up and would definitely be best served in person, around a couple of coffees.  Meanwhile, know that I'd definitely be interested in finding some free time to contribute if you deem I can help in any capacity (coding, brain picking, rubber ducking, etc.) - to be sure, I also understand if, in this nascent stage, you need an unperturbed calm and silence to properly distill your intuitions. Please don't feel shy to ask as, you might have gathered, I'm wishing to orient waking hours precisely in such a direction.
+
+I'm scheduled to return to work on the 24th of August and by then, luddite that I am, I will mostly be attempting to make a Thoreau or John Muir of myself, gathering hope and inspiration from pulsating sap and streams. I should be free(er) mid-september and if you don't mind, I think it would be nice to schedule something by then - this would give me a clear ultimatum to kick myself and go enjoy Montreal for a day or two.
+
+
+
+
+
+
+*** 2026-08-15
+01.
+ 
+Des bribes de pensees, furtives, naissent et se fannent a chaque instant. Elles croissent a la lumiere de l'attention: a l'attention des mains et du regard qui se doit d'etre portee avec un surcroit de douceur, sans quoi, on s'imprime a leur murmure pour n'y trouver qu'un reflet de soi-meme.
+
+Certaines, retives et pourtant sublimes, ne croissent qu'a l'ombre tandis que d'autres, s'epanouissent en plein soleil. Toutes, ont cependant besoin de la douce constance du matin, qui les chauffent au sortir de la nuit, a peine encore formees, jusqu'au midi ou, fermes et mures, ont reconnaitrera en elles comme exprime au grand jour, l'indistinct secret de leur existence. 
+
+02.
+
+Je savourais mon pain ce matin dans une sublime solitude, savourant les noix, le ble grille. J'eus cependant un arret a la derniere bouchee comme c'est elle qu'a l'ordinaire, je partage avec mon chien. C'etait conscience que cette bouchee en partage, plus qu'une saveur, recelait aussi les yeux couleur noisette de Lupin, la joie de son doux regard.
+    
+03.
+
+Journee grise et froide. Une part de moi attend la sortie du soleil pour pratiquer le kayak; une autre, voudrait s'echauffer a gravir l'un des sentiers aux alentours et enfin une derniere, tend l'oreille, cherche a comprendre l'idee du jour et suivre son pas. Il me semble que chaque jour produit une musique par les tons du ciel, l'humeur des oiseaux. Il me semble difficile de mieux honorer la beaute du monde qui m'entoure que de me mettre a son diapason et de prendre la place qu'elle me laisse au sein de son choeur. C'est un jour de rythme lent, assourdi. Une marmotte curieuse s'est arretee au pied de mon camp, nous nous observons en silence.
+
+04.
+
+Je me figure John Muir dans la Sierra Nevada, sa communion aux precipices d'immenses cararactes; et aussi saillante que les arretes de la cordillere, son absence de peur me stupefait. Je realise que c'est elle, cette absence, qui authorise une etreinte du monde aussi totale et complete. La peur du lendemain, la peur d'aujourd'hui, cet etat de nature aussi vieux que le monde, nous tient toujours a distance, circonspects, diminues. C'est en quoi l'aventure, cette marche enhardie vers l'inconnu, me parait necessaire: c'est elle et seulement qu'elle qui nous permet d'etre ici, maintenant et de savourer l'instant, tel qu'il est. 
+
+** Notes de lecture
+*** When Minds Converse
 **** Agency with Judgment
 - "The belief that p is a disposition robustly to act as it would be rational to act,
 given the agent's other presumptively consistent beliefs and desires, if it were the
