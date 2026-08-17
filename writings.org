@@ -323,13 +323,13 @@ I'm scheduled to return to work on the 24th of August and by then, luddite that 
 *** 2026-08-15
 01.
  
-Des bribes de pensees, furtives, naissent et se fannent a chaque instant. Elles croissent a la lumiere de l'attention: a l'attention des mains et du regard qui se doit d'etre portee avec un surcroit de douceur, sans quoi, on s'imprime a leur murmure pour n'y trouver qu'un reflet de soi-meme.
+Des bribes de pensees, furtives, naissent et se fannent a chaque instant. Elles croissent a la lumiere de l'attention: a l'attention des mains et du regard qui se doit d'etre portee avec un surcroit de douceur, sans quoi, on s'imprime a leur murmure pour n'y trouver qu'un reflet de nous-memes.
 
-Certaines, retives et pourtant sublimes, ne croissent qu'a l'ombre tandis que d'autres, s'epanouissent en plein soleil. Toutes, ont cependant besoin de la douce constance du matin, qui les chauffent au sortir de la nuit, a peine encore formees, jusqu'au midi ou, fermes et mures, ont reconnaitrera en elles comme exprime au grand jour, l'indistinct secret de leur existence. 
+Certaines pensees, retives et pourtant sublimes, ne croissent qu'a l'ombre tandis que d'autres, s'epanouissent en plein soleil. Toutes, ont cependant besoin de la douce constance du matin, qui les chauffent au sortir de la nuit, a peine encore formees, jusqu'au midi ou, fermes et mures, ont reconnaitrera en elles comme exprime au grand jour, l'indistinct secret de leur existence. 
 
 02.
 
-Je savourais mon pain ce matin dans une sublime solitude, savourant les noix, le ble grille. J'eus cependant un arret a la derniere bouchee comme c'est elle qu'a l'ordinaire, je partage avec mon chien. C'etait conscience que cette bouchee en partage, plus qu'une saveur, recelait aussi les yeux couleur noisette de Lupin, la joie de son doux regard.
+Je savourais mon pain ce matin dans une sublime solitude, savourant les noix, le ble grille. J'eus cependant un arret a la derniere bouchee comme c'est elle qu'a l'ordinaire, je partage avec mon chien. C'etait conscience que cette bouchee en partage, plus qu'une saveur, recelait aussi ses yeux couleur noisette, la joie dans son doux regard.
     
 03.
 
@@ -337,7 +337,16 @@ Journee grise et froide. Une part de moi attend la sortie du soleil pour pratiqu
 
 04.
 
-Je me figure John Muir dans la Sierra Nevada, sa communion aux precipices d'immenses cararactes; et aussi saillante que les arretes de la cordillere, son absence de peur me stupefait. Je realise que c'est elle, cette absence, qui authorise une etreinte du monde aussi totale et complete. La peur du lendemain, la peur d'aujourd'hui, cet etat de nature aussi vieux que le monde, nous tient toujours a distance, circonspects, diminues. C'est en quoi l'aventure, cette marche enhardie vers l'inconnu, me parait necessaire: c'est elle et seulement qu'elle qui nous permet d'etre ici, maintenant et de savourer l'instant, tel qu'il est. 
+Je me figure John Muir dans la Sierra Nevada, sa communion aux precipices d'immenses cararactes; et aussi saillante que les arretes de la cordillere, son absence de peur me stupefait. Je realise que c'est elle, cette absence, qui authorise une etreinte du monde aussi totale et complete que la sienne. La peur du lendemain, la peur d'aujourd'hui, cet etat de nature aussi vieux que le monde, nous tient toujours a distance, circonspects, diminues. C'est en quoi l'aventure, cette marche enhardie vers l'inconnu, me parait necessaire: c'est elle et seulement qu'elle qui nous permet d'etre ici, maintenant et de savourer l'instant, tel qu'il est. 
+
+05.
+
+A propos du probleme "difficile" de la conscience. On cherche a qualifier ce qui distinguerait le "philosophe zombie" d'un etre pour qui c'est "quelque chose" que d'etre celui-ci. A savoir que l'experience du dernier est substantifiee par un je-ne-sais-quoi (on parle souvent de qualia) qui manque au premier.
+
+Je m'interroge a savoir si, psychologiquement, ce je-ne-sais-quoi ne serait pas, du moins en partie, tributaitre a la perception du passage du temps. On pense au philosophe-zombie en tant qu'un systeme qui reproduit mecaniquement et identiquement l'exteriorite d'un etre autrement conscient. Or si l'on parle d'un systeme sous la vue Laplacienne, ultra-determinee des micro-etats qui le composent, il n'y a aucune place pour l'entropie - cette derniere emergeant d'un niveau de description qui subsume les micro-etats en macro-etats. Sans entropie qui croit irrevocablement, aucune direction ni perception du temps qui passe. Il semble que nous appliquons quelque peu instinctivement cette observation aux insectes et micro-organismes qui nous semblent de simples automates et pour qui l'action reflexe se produit pour ainsi dire, instantanement - hors du temps psychologique. Que dire maintenant d'un systeme qui, se percevant lui-meme, realisant une approximation statistique de son etat (lui-meme et son environnement), le concoit donc en termes de macro-etats des quels emergent l'entropie et sa direction. Pour un tel systeme, vieillir, le temps qui passe et le temps perdu auraient finalement un sens. J'ignore s'il s'agit la d'une condition necessaire et suffisante pour distinguer le philosophe-zombie d'un etre sensible mais bon nombre de nos impressions ont un aspect indubitablement temporel.
+
+Question: est-ce que l'impression d'une couleur est disjointe de la dimension temporelle? Est-ce une continuite dans le temps ou bien une existence hors du temps?
+    
 
 ** Notes de lecture
 *** When Minds Converse
