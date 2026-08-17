@@ -319,7 +319,6 @@ I'm scheduled to return to work on the 24th of August and by then, luddite that 
 
 
 
-
 *** 2026-08-15
 01.
  
@@ -343,10 +342,18 @@ Je me figure John Muir dans la Sierra Nevada, sa communion aux precipices d'imme
 
 A propos du probleme "difficile" de la conscience. On cherche a qualifier ce qui distinguerait le "philosophe zombie" d'un etre pour qui c'est "quelque chose" que d'etre celui-ci. A savoir que l'experience du dernier est substantifiee par un je-ne-sais-quoi (on parle souvent de qualia) qui manque au premier.
 
-Je m'interroge a savoir si, psychologiquement, ce je-ne-sais-quoi ne serait pas, du moins en partie, tributaitre a la perception du passage du temps. On pense au philosophe-zombie en tant qu'un systeme qui reproduit mecaniquement et identiquement l'exteriorite d'un etre autrement conscient. Or si l'on parle d'un systeme sous la vue Laplacienne, ultra-determinee des micro-etats qui le composent, il n'y a aucune place pour l'entropie - cette derniere emergeant d'un niveau de description qui subsume les micro-etats en macro-etats. Sans entropie qui croit irrevocablement, aucune direction ni perception du temps qui passe. Il semble que nous appliquons quelque peu instinctivement cette observation aux insectes et micro-organismes qui nous semblent de simples automates et pour qui l'action reflexe se produit pour ainsi dire, instantanement - hors du temps psychologique. Que dire maintenant d'un systeme qui, se percevant lui-meme, realisant une approximation statistique de son etat (lui-meme et son environnement), le concoit donc en termes de macro-etats des quels emergent l'entropie et sa direction. Pour un tel systeme, vieillir, le temps qui passe et le temps perdu auraient finalement un sens. J'ignore s'il s'agit la d'une condition necessaire et suffisante pour distinguer le philosophe-zombie d'un etre sensible mais bon nombre de nos impressions ont un aspect indubitablement temporel.
+Je m'interroge a savoir si, psychologiquement, ce je-ne-sais-quoi ne serait pas, du moins en partie, tributaitre de la perception du passage du temps. On pense au philosophe-zombie en tant qu'un systeme qui reproduit mecaniquement et identiquement l'exteriorite d'un etre autrement conscient. Or si l'on parle d'un systeme sous la vue Laplacienne, ultra-determinee des micro-etats qui le composent, il n'y a aucune place pour l'entropie - cette derniere emergeant d'un niveau de description qui subsume les micro-etats en macro-etats. Sans l'entropie qui croit irrevocablement, il n'y a, a ce niveau de description, aucune direction ni perception du temps qui passe. Note: il semble que nous appliquons quelque peu instinctivement cette observation aux insectes et micro-organismes qui nous semblent de simples automates et pour qui l'action reflexe se produit, pour ainsi dire, instantanement - hors du temps psychologique. Que dire maintenant d'un systeme qui, se percevant lui-meme, realisant une approximation statistique de son etat (soit de lui-meme et son environnement), le concoit donc en termes de macro-etats des quels emergent l'entropie et sa direction. Pour un tel systeme, vieillir, le temps qui passe et le temps perdu auraient finalement un sens. J'ignore s'il s'agit la d'une condition necessaire et suffisante pour distinguer le philosophe-zombie d'un etre sensible mais bon nombre de nos impressions ont un aspect indubitablement temporel.
 
 Question: est-ce que l'impression d'une couleur est disjointe de la dimension temporelle? Est-ce une continuite dans le temps ou bien une existence hors du temps?
-    
+
+Cette notion de temporalite me parait particulierement riche. La perception d'un objet n'est pas exactement: "presence de cet objet" entendu comme une entitee existant par elle-meme - il s'agit la d'une construction a posteriori que nous posons. Percevoir un objet, reviendrait plus tot a constater sa permanence, sa resistance au passage du temps et de la, assumer l'objet comme entite a part entiere. Pour qui le temps a une direction, la continuite, la persistance est plus une exception que la regle.
+
+
+
+06.
+
+Question: si, de ma vie, la seule et unique couleur qui m'a ete presentee est le rouge, est-ce pour moi une couleur? Il me semble que le silence, l'absence de lumiere ou autre, n'ont de sens qu'en la mesure ou je puis les comparer avec la presence du son, de la lumiere, etc. Si nos perceptions ne prennent place que par une distance relative, un stimuli continu, sans variation aucune, equivaut a l'absence de stimuli. Pour un aveugle, la noirceur est aussi depourvue de sens que la clarte.
+
 
 ** Notes de lecture
 *** When Minds Converse
@@ -355,3 +362,16 @@ Question: est-ce que l'impression d'une couleur est disjointe de la dimension te
 given the agent's other presumptively consistent beliefs and desires, if it were the
 case that p: for short, to act as if p."
 test
+** Projets
+ - Application Kayak
+   - Mieux comprendre et interioriser le moteur d'estime de trajet
+   - Mode carte offline
+   - Permettre l'import de cartes
+ - Pratiquer les noeuds du niveau 3
+ - Ecouter cours kayaking online
+ - Apprendre a mieux lire la meteo du moment
+ - Certification VHF
+ - Recherche emploi ethique
+
+
+   
