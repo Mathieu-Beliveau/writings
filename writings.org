@@ -317,14 +317,12 @@ I'm scheduled to return to work on the 24th of August and by then, luddite that 
 
 
 
-
-
 *** 2026-08-15
 01.
  
 Des bribes de pensees, furtives, naissent et se fannent a chaque instant. Elles croissent a la lumiere de l'attention: a l'attention des mains et du regard qui se doit d'etre portee avec un surcroit de douceur, sans quoi, on s'imprime a leur murmure pour n'y trouver qu'un reflet de nous-memes.
 
-Certaines pensees, retives et pourtant sublimes, ne croissent qu'a l'ombre tandis que d'autres, s'epanouissent en plein soleil. Toutes, ont cependant besoin de la douce constance du matin, qui les chauffent au sortir de la nuit, a peine encore formees, jusqu'au midi ou, fermes et mures, ont reconnaitrera en elles comme exprime au grand jour, l'indistinct secret de leur existence. 
+Certaines pensees, retives et pourtant sublimes, ne croissent qu'a l'ombre tandis que d'autres, s'epanouissent en plein soleil. Toutes, ont cependant besoin de la douce constance du matin, qui les chauffent au sortir de la nuit, a peine encore formees, jusqu'au midi ou, fermes et mures, ont reconnaitrera en elles comme exprime au grand jour: l'indistinct secret de leur existence. 
 
 02.
 
@@ -348,12 +346,24 @@ Question: est-ce que l'impression d'une couleur est disjointe de la dimension te
 
 Cette notion de temporalite me parait particulierement riche. La perception d'un objet n'est pas exactement: "presence de cet objet" entendu comme une entitee existant par elle-meme - il s'agit la d'une construction a posteriori que nous posons. Percevoir un objet, reviendrait plus tot a constater sa permanence, sa resistance au passage du temps et de la, assumer l'objet comme entite a part entiere. Pour qui le temps a une direction, la continuite, la persistance est plus une exception que la regle.
 
-
+Posons un systeme pour lequel le passage du temps est une notion d'arriere plan sur laquelle toute autre representation se fonde. Notons qu'un tel systeme possede une vue tant de lui-meme que de son environnement. L'etat au temps T d'un tel systeme se compare desormais a l'etat au temps T+1. Posons egalement qu'un tel systeme cherche a perdurer dans le temps: maximiser l'invariance d'une part ou de la totalite des etats representes. S'en suit que celui-ci est a la recherche constante de regularites ou representations ayant une valeur predictive. Celui-ci sera donc fondamentalement sensible a tout changement entre T et T+1 et c'est ce changement dans le temps qui constituera pour lui une perception. Si par exemple je presente un signal contrastant un vert et vert fonce et que ce signal est inchangeant au temps T, T+1 ... T+n; il n'y a, pour la perspective d'un tel systeme, rien d'interessant et pour ainsi dire, aucun contraste. Ce dernier, n'existe que que si entre T et T+1, je fais varier une part de l'espace pour la rendre plus sombre. Suivant cette dynamique ou toute variation temporelle est a meme de susciter une representation, il me semble que cette combinatoire soit suffisament riche pour appuyer ce que nous entendons par qualia: un attribut fortement couple a l'experience et qui substantifie la perception brute du monde. 
 
 06.
 
 Question: si, de ma vie, la seule et unique couleur qui m'a ete presentee est le rouge, est-ce pour moi une couleur? Il me semble que le silence, l'absence de lumiere ou autre, n'ont de sens qu'en la mesure ou je puis les comparer avec la presence du son, de la lumiere, etc. Si nos perceptions ne prennent place que par une distance relative, un stimuli continu, sans variation aucune, equivaut a l'absence de stimuli. Pour un aveugle, la noirceur est aussi depourvue de sens que la clarte.
 
+*** 2026-09-12
+01
+
+Il me semble quelque peu errone de parler de causalite a meme la description physicaliste d'un systeme. Une description physicaliste complete, quand bien meme elle impliquerait certaines transitions d'etat, decrit simultanement tous ces etats; il n'y a pour ainsi dire aucune notion de "cause" du fait que nous decrivons le phenomene tel un objet mathematique. L'idee de "cause" au sens commun, presuppose toujours une attente: nous nous attendons a ce que le phenomene observe demeure tel qu'il est; survient un changement, contraire a nos attentes, et nous en cherchons la cause. Nous passons d'un etat de certitude a un d'incertitude: l'entropie du systeme vient d'augmenter, le temps passe. Supposons le systeme suivant: deux boites (1 et 2) pour les quelles nous avons les macro-etats: vide et non-vide selon, respectivement, qu'elles comprenne aucune particule ou une ou plus. Introduisons 2 particules dans notre systeme: A et B et partons de l'etat d'entropie minimale selon le quel la boite 1 est non-vide et la boite 2 est vide. Aucune incertitude sur la position de nos particules: A et B sont toutes deux dans la boite 1. Supposons maintenant que nous observons a nouveau et constatons que la boite 2 est non-vide tandis que la boite 1 est vide. Ici encore, en apparence, aucune incertitude nous savons que les deux particules se trouvent dans la seconde boite. Par contre, nous venons de vivre un changement epistemique majeur: rien au paravant dans notre modele du systeme ne laissait supposer qu'il soit possible que lors d'une observation subsequente, il y ait un mouvement des particules. Nous passons d'un modele admettant seulement: boite 1 non-vide, a: boite 2 non-vide, boite 1 vide de meme que boite 1 et 2 non-vides. L'entropie de notre modele vient d'augmenter: sans comprehension de la "cause" (transition des particules A et B de boite 1 a boite 2), nous sommes epistemiquement en etat d'entropie maximale. Il me semble assez juste de dire qu'a la recherche d'une cause, nous cherchons a reduire notre incertitude/entropie epistemique en determinant les quels des micro-etat possibles expliquent au mieux la transition vers l'etat actuel.
+
+02
+
+Sommaire:
+
+- Une bonne explication se veut toujours une compression descriptive: nous cherchons la generalisation la moins complexe decrivant au mieux la complexite d'un phenomene.
+
+- Chercher la cause d'un phenomene, suppose une incertitude: une augmentation de l'entropie epistemique: nous passons d'un etat ou le nombre de micro-etats pouvant expliquer . Trouver cette cause, revient a circonscrire    
 
 ** Notes de lecture
 *** When Minds Converse
