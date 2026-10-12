@@ -315,7 +315,6 @@ I guess a proper response to this question might be a chore just to write up and
 
 I'm scheduled to return to work on the 24th of August and by then, luddite that I am, I will mostly be attempting to make a Thoreau or John Muir of myself, gathering hope and inspiration from pulsating sap and streams. I should be free(er) mid-september and if you don't mind, I think it would be nice to schedule something by then - this would give me a clear ultimatum to kick myself and go enjoy Montreal for a day or two.
 
-
 *** 2026-08-15
 01.
  
@@ -363,6 +362,13 @@ Sommaire:
 - Une bonne explication se veut toujours une compression descriptive: nous cherchons la generalisation la moins complexe decrivant au mieux la complexite d'un phenomene.
 
 - Chercher la cause d'un phenomene, suppose une incertitude: une augmentation de l'entropie epistemique: nous passons d'un etat ou le nombre de micro-etats pouvant expliquer . Trouver cette cause, revient a circonscrire    
+
+
+*** 2026-10-11
+
+- Je crois tout juste comprendre l'interet de parler d'integration (par opposition a la fragmentation) relativement au phenomene de la conscience. Supposons deux locuteurs, tous deux conscients. S'ils doivent se coordonner pour une action, force est qu'ils doivent communiquer: faire respectivement comprendre a l'autre sa vue sur l'action, la strategie a prendre, etc. Dans l'ideal, leur comprehension mutuelle serait complete, integree. On imagine un degre d'integration ou "ils ne font qu'un dans leur action", ou l'intention de l'autre est comprise comme la sienne. C'est j'imagine en ce sens qu'une conscience parait comme indivisible.
+
+22  
 
 ** Notes de lecture
 *** When Minds Converse
